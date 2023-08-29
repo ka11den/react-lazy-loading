@@ -5,7 +5,7 @@
   And in this repository you can see one of its implementations using the library <a href="https://www.npmjs.com/package/react-intersection-observer">react-intersection-observer</a>
 </div>
 
-Bofore
+Before
 ![](https://i.imgur.com/9iY8ibR.png)
 
 After
