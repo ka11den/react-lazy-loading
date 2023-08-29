@@ -1,0 +1,11 @@
+@import "./styles/reset.scss";
+@import "./styles/variables/global.scss";
+@import "./styles/themes/normal.scss";
+@import "./styles/themes/dark.scss";
+
+body {
+  font-family: var(--body-font);
+  color: var(--title-color);
+  
+  background-color: var(--bg-color);
+}
